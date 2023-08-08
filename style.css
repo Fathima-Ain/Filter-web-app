@@ -1,0 +1,19 @@
+.btn-success:hover
+{
+    background-color:thistle;
+}
+.btn-info:hover
+{
+    background-color:teal;
+}
+canvas
+{
+  animation-name:Ain;
+  animation-duration:4s;
+  animation-iteration-count:infinite;
+}
+@keyframes Ain 
+{
+    from{box-shadow: 1px 1px 38px pink;}
+    to{box-shadow: 1px 1px 38px plum;}
+}
